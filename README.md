@@ -21,4 +21,6 @@ Newbie - Ele é o usuário menos ativo, então ele só posta a cada 6 dias. Ele 
 **OBS:** Mensagens sobre o flamengo são consideras virais, mensagens sobre o vasco são consideradas boas. Os membros são vascainos com exceção do troll.
 
 O script de simulação conta com 90 iterações (para simular 3 meses, aproximadamente cada mês com 30 iterações). Em cada iteração é feito a atualização dos timestamps de todos os nós, para manter a data igual em todos dias.
+
+Os resultados foram satisfatórios dentro do esperado. Mensagens virais foram ordenadas no final e o troll ficou com um baixo número de reputação, impedido que mensagens virais fossem enviadas. 
 </p>
