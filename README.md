@@ -16,7 +16,7 @@ Active - Ele é o segundo usuário quem mais posta no fórum, ele posta a cada 2
 
 Troll - Ele manda apenas mensagens sobre o flamengo, ele posta a cada 2 dias igual o membro ativo, ele só dá dislike. 
 
-Newbie - Ele é o usuário menos ativo, então ele só posta a cada 6 dias. Ele dá like quando ele tem 20 de reputação
+Novato - Ele é o usuário menos ativo, então ele só posta a cada 6 dias. Ele dá like quando ele tem 20 de reputação
 
 **OBS:** Mensagens sobre o flamengo são consideras virais, mensagens sobre o vasco são consideradas boas. Os membros são vascainos com exceção do troll.
 
