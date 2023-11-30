@@ -159,7 +159,7 @@ do
         giveLikeOrDislikeToPost $MESSAGE_RANDOM_NUMBER $TROLL_HOST $HASH_MESSAGE
     fi
 
-    # Novato posta a cada 1 dia
+    # Novato posta a cada 6 dia
     if [ $(($i % 6)) = 0 ]; then
         HASH_MESSAGE=$(eval ${NEWBIE_MESSAGES[$MESSAGE_RANDOM_NUMBER]})
         giveLikeOrDislikeToPost $MESSAGE_RANDOM_NUMBER $NOVATO_HOST $HASH_MESSAGE
